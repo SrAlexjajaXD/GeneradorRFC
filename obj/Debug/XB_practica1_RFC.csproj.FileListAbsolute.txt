@@ -1,0 +1,22 @@
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\bin\Debug\XB_practica1_RFC.exe.config
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\bin\Debug\XB_practica1_RFC.exe
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\bin\Debug\XB_practica1_RFC.pdb
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.AssemblyReference.cache
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.Properties.Resources.resources
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.form.resources
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.GenerateResource.cache
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.CoreCompileInputs.cache
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.exe
+C:\Users\jpedr\source\repos\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.pdb
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\bin\Debug\XB_practica1_RFC.exe.config
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\bin\Debug\XB_practica1_RFC.exe
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\bin\Debug\XB_practica1_RFC.pdb
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.AssemblyReference.cache
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.Properties.Resources.resources
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.form.resources
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.GenerateResource.cache
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.csproj.CoreCompileInputs.cache
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.exe
+D:\Usuarios\alexl\Documents\Tecnologico\.NET CORE\XB_practica1_RFC\XB_practica1_RFC\XB_practica1_RFC\obj\Debug\XB_practica1_RFC.pdb
